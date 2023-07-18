@@ -4,6 +4,6 @@ def sort(a):
             if a[i]>a[j]:
                 a[i],a[j]=a[j],a[i]
     return a
-print(sort([3,1,5,7,2]))
+print(sort([8,1,4,6,2]))
 
 
